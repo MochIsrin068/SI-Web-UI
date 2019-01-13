@@ -1,0 +1,18 @@
+[{
+    "img": "/img/user-3.jpg",
+    "dimensi": "120px",
+    "name": "Iyan Sr",
+    "posision": "CTO",
+    "margin": "-24px"
+}, {
+    "img": "/img/user-6.jpg",
+    "name": "M Isrin",
+    "posision": " CEO",
+    "margin": "-14px"
+}, {
+    "img": "/img/user-5.jpg",
+    "dimensi": "120px",
+    "name": "Anony",
+    "posision": "CMO",
+    "margin": "-24px"
+}]
